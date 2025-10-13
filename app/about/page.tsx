@@ -41,7 +41,7 @@ export default function About() {
           <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
             {/* Illustration */}
             <motion.img
-              src="/about.png"
+              src="/About.png"
               alt="About Illustration"
               className="w-full max-w-md mx-auto drop-shadow-2xl"
               initial={{ opacity: 0, y: 40 }}

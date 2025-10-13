@@ -16,6 +16,14 @@ const projects = [
     image: "/projects/Simple Crud.png",
     link: "https://crud-beige-seven-26.vercel.app/",
   },
+  {
+  title: "Portfolio Website",
+  description:
+    "A personal portfolio website built with Next.js, Tailwind CSS, and Framer Motion. It showcases my skills, tools, and web development projects in a sleek, responsive, and animated layout designed for a smooth user experience.",
+  image: "/projects/portfolio.png",
+  link: "https://portfolio-website-five-liart-17.vercel.app/",
+},
+
    {
      title: "To be displayed",
      description: "A basic e‑commerce app built with Next.js. Users can browse products, add items to cart, and place orders through a clean and responsive interface.",

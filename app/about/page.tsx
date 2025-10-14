@@ -73,7 +73,7 @@ export default function About() {
                 <span className="text-blue-400 font-semibold">
                   Software Developer
                 </span>{" "}
-                with<span className="text-blue-400 font-semibold">
+                with <span className="text-blue-400 font-semibold">
                   2 years of hands-on experience
                 </span>{" "} in building modern, responsive, and user-focused websites and applications. Passionate about crafting clean and efficient code, I’m continuously expanding my expertise toward {" "}
                 <span className="text-blue-400 font-semibold">full-stack development</span>.

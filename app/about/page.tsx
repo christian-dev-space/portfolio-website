@@ -167,10 +167,7 @@ export default function About() {
   icon: <SiNpm className="text-6xl" style={{ color: '#CB3837' }} />,
   name: "NPM"
 },
-// {
-//   icon: <SiMongodb className="text-6xl" style={{ color: '#47A248' }} />,
-//   name: "MongoDB"
-// },
+
 {
   icon: <FaPython className="text-6xl" style={{ color: '#3776AB' }} />,
   name: "Python"
@@ -235,7 +232,6 @@ export default function About() {
       { icon: <FaGithub className="text-6xl" />, name: "GitHub" },
       { icon: <FaGitAlt className="text-6xl text-orange-500" />, name: "Git" },
       { icon: <SiFigma className="text-6xl text-orange-500" />, name: "Figma" },
-      // { icon: <SiPostman className="text-6xl text-orange-400" />, name: "Postman" },
       { icon: <SiVercel className="text-6xl" />, name: "Vercel" },
     ].map((item, i) => (
       <motion.div

@@ -61,26 +61,31 @@ export default function About() {
 
               <p className="text-gray-300 leading-relaxed text-lg">
                 Hi Everyone, I am{" "}
-                <span className="text-blue-400 font-semibold">LOREM IPSOM</span>{" "}
+                <span className="text-blue-400 font-semibold">Christian Jay Azarcon</span>{" "}
                 from{" "}
-                <span className="text-blue-400 font-semibold">Lorem ipsum dolor</span>.
+                <span className="text-blue-400 font-semibold">Cebu City, Philippines</span>.
                 <br />
                 <br />
-                I am passionate about{" "}
+                I'm a {" "}
                 <span className="text-blue-400 font-semibold">
-                  web development
+                  Frontend Web Developer 
+                </span>{" "}and{" "}
+                <span className="text-blue-400 font-semibold">
+                  Software Developer
                 </span>{" "}
-                and love building scalable applications with{" "}
-                <span className="text-blue-400 font-semibold">Lorem ipsum dolor</span>.
+                with<span className="text-blue-400 font-semibold">
+                  2 years of hands-on experience
+                </span>{" "} in building modern, responsive, and user-focused websites and applications. Passionate about crafting clean and efficient code, I’m continuously expanding my expertise toward {" "}
+                <span className="text-blue-400 font-semibold">full-stack development</span>.
                 <br />
                 <br />
-                I am interested in{" "}
+                I’m driven by curiosity and creativity—always eager to learn new technologies, explore backend development, and create digital experiences that are both{" "}
                 <span className="text-blue-400 font-semibold">
-                  Full Stack Development
+                  functional
                 </span>{" "}
-                and exploring{" "}
+                and{" "}
                 <span className="text-blue-400 font-semibold">
-                  Lorem ipsum dolor
+                  innovative
                 </span>{" "}.
                 
               </p>

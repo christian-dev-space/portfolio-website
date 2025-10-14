@@ -62,7 +62,7 @@ export default function Home() {
           transition={{ duration: 1, delay: 1 }}
         >
           {[
-            { icon: <FaFacebookF />, href: "#" },
+            // { icon: <FaFacebookF />, href: "#" },
             { icon: <FaGithub />, href: "https://github.com/christian-dev-space" },
             // { icon: <FaInstagram />, href: "#" },
             { icon: <FaLinkedin />, href: "https://linkedin.com/in/chris-azarcon" },

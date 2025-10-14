@@ -66,7 +66,7 @@ export default function About() {
                 <span className="text-blue-400 font-semibold">Cebu City, Philippines</span>.
                 <br />
                 <br />
-                I'm a {" "}
+                I&apos;m a {" "}
                 <span className="text-blue-400 font-semibold">
                   Frontend Web Developer 
                 </span>{" "}and{" "}

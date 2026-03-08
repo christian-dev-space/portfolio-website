@@ -56,7 +56,7 @@ export default function Contact() {
               </div>
               <div className="flex items-center gap-4">
                 <FaPhoneAlt className="text-blue-400 text-xl" />
-                <span>+63 926 662 8484</span>
+                <span>+63 969 283 5607</span>
               </div>
               <div className="flex items-center gap-4">
                 <FaMapMarkerAlt className="text-blue-400 text-xl" />

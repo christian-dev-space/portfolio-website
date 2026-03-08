@@ -33,7 +33,7 @@ const projects = [
    {
      title: "Restaurant Reservation",
      description: "A basic e‑commerce app built with Next.js. Users can browse products, add items to cart, and place orders through a clean and responsive interface.",
-     image: "/projects/ecommerce.png",
+     image: "/projects/Restaurant.png",
      link: "https://chan-restaurant.infinityfreeapp.com/",
    },
   // add more projects...

@@ -5,6 +5,33 @@ import Footer from "../../components/Footer";
 
 const projects = [
   {
+  title: "Portfolio Website",
+  description:
+    "A personal portfolio website built with Next.js, Tailwind CSS, and Framer Motion. It showcases my skills, tools, and web development projects in a sleek, responsive, and animated layout designed for a smooth user experience.",
+  image: "/projects/portfolio.png",
+  link: "https://portfolio-website-five-liart-17.vercel.app/",
+},
+   {
+     title: "Restaurant Reservation",
+     description: "Chan Restaurant is a restaurant website built with WordPress and a custom theme, created as a personal project to demonstrate WordPress theme development without relying on page builders, featuring a responsive and structured layout.",
+     image: "/projects/Restaurant.png",
+     link: "https://chan-restaurant.infinityfreeapp.com/",
+   },
+     {
+  title: "Pamana",
+  description:
+    "Pamana.org is a heritage mapping platform built with HTML, CSS, JavaScript, and PHP, featuring interactive geospatial mapping for documenting and exploring cultural and natural heritage sites across the Philippines. The platform supports community contributions to help build a collaborative digital heritage repository.",
+  image: "/projects/Pamana.png",
+  link: "https://pamana.org/",
+},
+   {
+  title: "Cmstudio",
+  description:
+    "CaneteMedina.com is a corporate website built with WordPress and Elementor, featuring a responsive and structured layout that highlights the consulting services, expertise, and professional background of Canete Medina Consulting Group.",
+  image: "/projects/cmstudio.png",
+  link: "https://canetemedina.com/",
+},
+     {
     title: "Quiz App",
     description: "A lightweight and engaging quiz app built with Next.js. Choose categories, set difficulty, and test your knowledge with multiple-choice questions.",
     image: "/projects/Quiz-App.png",
@@ -16,25 +43,12 @@ const projects = [
     image: "/projects/Simple Crud.png",
     link: "https://crud-beige-seven-26.vercel.app/",
   },
-  {
-  title: "Portfolio Website",
-  description:
-    "A personal portfolio website built with Next.js, Tailwind CSS, and Framer Motion. It showcases my skills, tools, and web development projects in a sleek, responsive, and animated layout designed for a smooth user experience.",
-  image: "/projects/portfolio.png",
-  link: "https://portfolio-website-five-liart-17.vercel.app/",
-},
-
+  
    {
      title: "To be displayed",
      description: "A basic e‑commerce app built with Next.js. Users can browse products, add items to cart, and place orders through a clean and responsive interface.",
      image: "/projects/ecommerce.png",
      link: "https://github.com/you/ecommerce",
-   },
-   {
-     title: "Restaurant Reservation",
-     description: "A basic e‑commerce app built with Next.js. Users can browse products, add items to cart, and place orders through a clean and responsive interface.",
-     image: "/projects/Restaurant.png",
-     link: "https://chan-restaurant.infinityfreeapp.com/",
    },
   // add more projects...
 ];

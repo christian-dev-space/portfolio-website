@@ -31,7 +31,7 @@ const projects = [
      link: "https://github.com/you/ecommerce",
    },
    {
-     title: "Chan Restaurant Reservation",
+     title: "Restaurant Reservation",
      description: "A basic e‑commerce app built with Next.js. Users can browse products, add items to cart, and place orders through a clean and responsive interface.",
      image: "/projects/ecommerce.png",
      link: "https://chan-restaurant.infinityfreeapp.com/",
